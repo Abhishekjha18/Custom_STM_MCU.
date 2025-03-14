@@ -1,7 +1,3 @@
-Here’s a concise **README** for your GitHub repository:  
-
----
-
 # **Custom Microcontroller Board with Multi-Shield Support**  
 
 ## Overview  
